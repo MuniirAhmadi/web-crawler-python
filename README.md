@@ -6,7 +6,7 @@ This repository contains a web crawler built using the Scrapy framework. The cra
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/mycrawler.git
+    git clone https://github.com/MuniirAhmadi/web-crawler-python.git
     cd mycrawler
     ```
 
