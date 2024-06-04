@@ -1,4 +1,4 @@
-# My Web Crawler
+# Simple Web Crawler
 
 This repository contains a web crawler built using the Scrapy framework. The crawler is designed to scrape book information from the website [Books to Scrape](http://books.toscrape.com/). 
 
